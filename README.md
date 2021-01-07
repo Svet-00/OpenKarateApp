@@ -15,13 +15,13 @@
   <tr>
     <td>
       <img alt="Страница входа" src="screenshots/login.png" />      
-      <p>Background mage by <a href="https://pixabay.com/users/anniespratt-4900708/">Annie Spratt</a> from <a href="https://pixabay.com/">Pixabay</a></p>
+      <p>Background image by <a href="https://pixabay.com/users/anniespratt-4900708/">Annie Spratt</a> from <a href="https://pixabay.com/">Pixabay</a></p>
     </td>
     <td><img alt="Новости" src="screenshots/news.png" /></td>
   </tr>
   <tr>
     <td><img alt="Календарь с событиями" src="screenshots/events_calendar.png" /></td>
-    <td><img alt="События списком" src="screenshots/events_filter.png" /></td>
+    <td><p>Фильтр событий</p><img alt="Фильтр событий" src="screenshots/events_filter.png" /></td>
   </tr>
   <tr>    
     <td><img alt="Расписание" src="screenshots/schedule.png" /></td>
