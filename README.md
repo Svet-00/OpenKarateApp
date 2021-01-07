@@ -11,16 +11,20 @@
 
 ## Скриншоты
 
-![Страница входа](screenshots/login.png)
-
-Background mage by [Annie Spratt](https://pixabay.com/users/anniespratt-4900708/) from [Pixabay](https://pixabay.com/)
-
-![Новости](screenshots/news.png)
-
-![Календарь с событиями](screenshots/events_calendar.png)
-
-![События списком](screenshots/events_list.png)
-
-![Расписание](screenshots/schedule.png)
-
-![Push уведомление](screenshots/notification.png)
+<table>
+  <tr>
+    <td>
+      <img alt="Страница входа" src="screenshots/login.png" />      
+      <p>Background mage by <a href="https://pixabay.com/users/anniespratt-4900708/">Annie Spratt</a> from <a href="https://pixabay.com/">Pixabay</a></p>
+    </td>
+    <td><img alt="Новости" src="screenshots/news.png" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Календарь с событиями" src="screenshots/events_calendar.png" /></td>
+    <td><img alt="События списком" src="screenshots/events_filter.png" /></td>
+  </tr>
+  <tr>    
+    <td><img alt="Расписание" src="screenshots/schedule.png" /></td>
+    <td><img alt="Push уведомление" src="screenshots/notification.png" /></td>
+  </tr>
+</table>
