@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725106480382",
+    "firebase_url": "https://seizakarateapp.firebaseio.com",
+    "project_id": "seizakarateapp",
+    "storage_bucket": "seizakarateapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725106480382:android:a5b807c0cf421f3ba581af",
+        "android_client_info": {
+          "package_name": "com.openkarateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725106480382-ua028chd1k62i683ojboirgjd9t63tkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.openkarateapp",
+            "certificate_hash": "3befcb4c584599e2baee3ce0fb8be10890c55893"
+          }
+        },
+        {
+          "client_id": "725106480382-7c0bvfsvkcmlmudc5ruu9kk1pr1ot9v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbMU_GimAAc9bczsnejq0Z6xBzL_7CZjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725106480382-7c0bvfsvkcmlmudc5ruu9kk1pr1ot9v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+{
+    "login": "d",
+    "password": "d",
+    "email": "",
+    "name": "d",
+    "surname": "d",
+    "patronymic": "",
+    "is_sportsman": true,
+    "birthday": "10.04.2020",
+    "level": 0,
+    "children": [
+        {
+            "name": "r",
+            "surname": "r",
+            "patronymic": "r",
+            "birthday": "10.04.2020",
+            "level": 0
+        },
+        {
+            "name": "l",
+            "surname": "",
+            "patronymic": "",
+            "birthday": "10.04.2020",
+            "level": 0
+        }
+    ]
+}

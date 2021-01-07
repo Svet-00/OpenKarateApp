@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "day_of_week": "test day of week 1",
+    "description": "test description 1",
+    "time": "test time 1",
+    "gym": 1
+  },
+  {
+    "id": 2,
+    "day_of_week": "test day of week 2",
+    "description": "test description 2",
+    "time": "test time 2",
+    "gym": 1
+  },
+  {
+    "id": 3,
+    "day_of_week": "test day of week 3",
+    "description": "test description 3",
+    "time": "test time 3",
+    "gym": 1
+  }
+]

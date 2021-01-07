@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "address": "test address 1",
+    "description": "test description 1",
+    "email": "test email 1",
+    "is_favorite": false,
+    "phoneNumber": "test phone number 1",
+    "title": "test title 1",
+    "vk_link": "test vk link 1",
+    "working_time": "test working time 1"
+  },
+  {
+    "id": 2,
+    "address": "test address 2",
+    "description": "test description 2",
+    "email": "test email 2",
+    "is_favorite": true,
+    "phone_number": "test phone number 2",
+    "title": "test title 2",
+    "vk_link": "test vk link 2",
+    "working_time": "test working time 2"
+  }
+]
