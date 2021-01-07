@@ -9,6 +9,8 @@
 
 На данный момент приложение тестировалось только на устройствах с ОС Android.
 
+В качестве бэкенда используется REST API [OpenKarateServer](https://github.com/Svet-00/OpenKarateServer)
+
 ## Скриншоты
 
 <table>
